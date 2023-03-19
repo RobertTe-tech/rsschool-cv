@@ -6,53 +6,40 @@ mail: ptenckunicyn@gmail.com
 tel: +79114441907
 discord: Majin (RobertTe-tech)#7099
 
-Стремлюсь стать с web на ты, используя данный инструмент на максимум. Уверен, что для каждой задачи способен составить алгоритм решения, если будет достаточно времени на обдумывание. 
+I need a web tool to implement my ideas. I am sure that I am able to create a solution algorithm for each task, if there is enough time to think about it.
 
-Знаю базовый синтаксис JS, HTML, CSS. Программирую в Visual Studio Code.
+I know the basic syntax JS, HTML, CSS. Programming in Visual Studio Code.
 
 ```JS
-function Bor() {
-    this.arr = [];
-    this.get = function() {
-        for(let i = 97; i < 97 + 26; i++) {
-            if(this.arr[String.fromCharCode(i)] != undefined)
-                return String.fromCharCode(i) + this.arr[String.fromCharCode(i)].get();
-        }
-        return "";
-    };
-    this.setWord = function(word) {
-        if(ind >= word.length) ind = 0;
-        else {
-            this.arr[word[ind]] = new Bor();
-            this.arr[word[ind++]].setWord(word);
-        }
-    };
-};
-let ind = 0; // static var for Bor
-function check(word) { // correct input [a-zA-Z]
-    let s = "", a1 = false, a2 = false, c = '';
-    for(let i = 0; i < word.length; i++) {
-        c = word[i];
-        a1 = c >= "a" && c <="z";
-        a2 = c >= "A" && c <="Z";
-        if(a1) {
-            s += c;
-        } else if(a2) {
-            s += c.toLowerCase();
-        } else {
-            return s;
-        }
-    }
-    return s;
+function order(words){
+  var s = "";
+    var arr = [];
+    var type = 0;
+    
+  for(var i = 0; i < words.length; i++) {
+      if(words[i] != ' ') s += words[i];
+      if(!isNaN(parseFloat(words[i])) && !isNaN(words[i] - 0)) {
+          type = words[i];
+      }
+      if(words[i] == " " || i == (words.length - 1)) {
+          arr[type] = s;
+          
+          s = "";
+      }
+  }
+  s = "";
+  arr.forEach(function (word) {
+      if(s.length > 0) s += ' ';
+      s += word;
+  })
+  if(s[s.length - 1] == ' ') console.log(s.slice(-1));
+  return s;
 }
-
-var bor = new Bor();
-bor.setWord(check("hello"));
-console.log(bor.get());
 ```
 
-<!--Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.-->
+1. CSS Bayan. The first educational project of the school RS. The project was compiled only using HTML and CSS, without using JS. Adaptive arrangement of elements for most devices. Simple and functional design.
+https://github.com/RobertTe-tech/cssBayan/pull/1
 
-Среднее полное образование (11 классов).
+Secondary complete education (11 grades).
 
 [Pre-intermediate](https://angloved.ru/test/opredelit-uroven-anglijskogo/106fk1009d6ae3bcdfeff9b305a1dd6dc60f5/) in English grammar.

@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/126411404/223386544-09a12f0c-0af6-4aa7-a8d1-3e33010b3ecb.jpg" width="120" height="170"></p>
 
-__<p align="center">Robert Krasilnikov</p>__
+# <p align="center">Robert Krasilnikov</p>
 
 [<p align="center">![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=socialge&logo=telegram&logoColor=26A5E4)](https://t.me/RobertTetech)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=social&logo=discord&logoColor=5865F2)](https://discordapp.com/users/818597269548826644/)
@@ -39,7 +39,12 @@ function order(words){
 }
 ```
 
+***
+### <p align="center">Educational projects</p>
+
 * <p align="center"><a href="https://github.com/RobertTe-tech/cssBayan/pull/1">CSS Bayan</a>. The first educational project of the school RS. The project was compiled only using HTML and CSS, without using JS. Adaptive arrangement of elements for most devices. Simple and functional design.</p>
+
+***
 
 <p align="center">Secondary complete education (11 grades).</p>
 

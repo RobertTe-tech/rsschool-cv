@@ -4,7 +4,8 @@
 
 <p align="center">
 <a href="https://t.me/RobertTetech"><img src="https://img.shields.io/badge/-Telegram-ffffff?style=socialge&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
-<a href="https://discordapp.com/users/818597269548826644/"><img src="https://img.shields.io/badge/-Discord-090909?style=social&logo=discord&logoColor=5865F2" alt="Discord"></a>
+<a href="https://discordapp.com/users/818597269548826644/"><img src="https://img.shields.io/badge/-Discord-090909?style=social&logo=discord&logoColor=090909" alt="Discord"></a>
+<a href="https://github.com/RobertTe-tech"><img src="https://img.shields.io/badge/-GitHub-090909?style=social&logo=GitHub&logoColor=181717" alt="Discord"></a>
 </p>
 
 ***

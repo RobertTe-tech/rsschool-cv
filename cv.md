@@ -1,9 +1,10 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/126411404/223386544-09a12f0c-0af6-4aa7-a8d1-3e33010b3ecb.jpg" width="120" height="170"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/126411404/223386544-09a12f0c-0af6-4aa7-a8d1-3e33010b3ecb.jpg" width="180" height="255"></p>
 
-# <p align="center">Robert Krasilnikov</p>
+<h1 align="center">Robert Krasilnikov</h1>
 
-[<p align="center">![Telegram](https://img.shields.io/badge/-Telegram-ffffff?style=socialge&logo=telegram&logoColor=26A5E4)](https://t.me/RobertTetech)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=social&logo=discord&logoColor=5865F2)](https://discordapp.com/users/818597269548826644/)
+<p align="center">
+<a href="https://t.me/RobertTetech"><img src="https://img.shields.io/badge/-Telegram-ffffff?style=socialge&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
+<a href="https://discordapp.com/users/818597269548826644/"><img src="https://img.shields.io/badge/-Discord-090909?style=social&logo=discord&logoColor=5865F2" alt="Discord"></a>
 </p>
 
 ***
@@ -40,9 +41,9 @@ function order(words){
 ```
 
 ***
-### <p align="center">Educational projects</p>
+<h3 align="center">Educational projects</h3>
 
-* <p align="center"><a href="https://github.com/RobertTe-tech/cssBayan/pull/1">CSS Bayan</a>. The first educational project of the school RS. The project was compiled only using HTML and CSS, without using JS. Adaptive arrangement of elements for most devices. Simple and functional design.</p>
+* <p align="center"><a href="https://robertte-tech.github.io/cssBayan/cssBayan/index.html">CSS Bayan</a>. The first educational project of the school RS. The project was compiled only using HTML and CSS, without using JS. Adaptive arrangement of elements for most devices. Simple and functional design. <a href="https://github.com/RobertTe-tech/cssBayan/pull/1/files">Sources</a>.</p>
 
 ***
 

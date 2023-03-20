@@ -1,1 +1,1 @@
-# <a href="https://RobertTe-tech.github.io/rsschool-cv/cv">rsschool-cv</a>
+# <a href="https://RobertTe-tech.github.io/rsschool-cv/">rsschool-cv</a>
